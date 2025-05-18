@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/santhoshraaj18/Practical-Machine-Learning-with-Python/graphs/commit-activity)
 [![Open Issues](https://img.shields.io/github/issues/santhoshraaj18/Practical-Machine-Learning-with-Python)](https://github.com/santhoshraaj18/Practical-Machine-Learning-with-Python/issues)
-
+[![Pull Requests](https://img.shields.io/github/pulls/santhoshraaj18/Practical-Machine-Learning-with-Python)](https://github.com/santhoshraaj18/Practical-Machine-Learning-with-Python)
 
 Welcome to the **Practical Machine Learning with Python** repository! Dive into the world of machine learning with this hands-on collection of code and Jupyter notebooks. Explore various algorithms, from fundamental classification and regression techniques to powerful clustering and probabilistic models. This repository aims to provide clear implementations, insightful explanations, and practical experience with these essential techniques.
 
