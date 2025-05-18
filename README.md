@@ -76,5 +76,24 @@ To set up and run this repository locally, install the required dependencies:
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn pgmpy
 
+🏗 Usage
+Clone the repository and start experimenting with the code:
 
+bash
+git clone https://github.com/YOUR_USERNAME/practical-ml-python.git
+cd practical-ml-python
+Run Jupyter notebooks or Python scripts to explore implementations.
+
+🤝 Contributing
+We welcome contributions! If you have improvements, new algorithms, or bug fixes, feel free to submit a pull request.
+
+🌍 Acknowledgments
+Special thanks to:
+
+Open-source contributors and ML researchers for inspiration.
+
+The Python and ML community for valuable tools and insights.
+
+📜 License
+This project is released under the MIT License.
 
